@@ -1,34 +1,42 @@
 [
   {
     "mesiname": "アイスカフェラテ R",
+    "mesiserch": "あいすかふぇらてれぎゅらー",
     "mesical": 74
   },
   {
     "mesiname": "アイスカフェラテ L",
+    "mesiserch": "あいすかふぇらてらーじ",
     "mesical": 111
   },
   {
     "mesiname": "ホットコーヒー R",
+    "mesiserch": "ほっとこーひーれぎゅらー",
     "mesical": 7
   },
   {
     "mesiname": "ホットコーヒー L",
+    "mesiserch": "ほっとこーひーらーじ",
     "mesical": 11
   },
   {
     "mesiname": "アイスコーヒー R",
+    "mesiserch": "あいすこーひーれぎゅらー",
     "mesical": 7
   },
   {
     "mesiname": "高級キリマンジャロブレンド R",
+    "mesiserch": "こうきゅうきりまんじゃろぶれんどれぎゅらー",
     "mesical": 7
   },
   {
     "mesiname": "ホットカフェラテ R",
+    "mesiserch": "ほっとかふぇらてれぎゅらー",
     "mesical": 87
   },
   {
     "mesiname": "ホットカフェラテ L",
+    "mesiserch": "ほっとかふぇらてらーじ",
     "mesical": 130
   }
 ]
