@@ -1,14 +1,34 @@
 [
-    {
-        "mesiname": "コーヒー",
-        "mesical": 1919
-    },
-    {
-        "mesiname": "牛乳",
-        "mesical": 1919
-    },
-    {
-        "mesiname": "test",
-        "mesical": 700
-    }
+  {
+    "mesiname": "アイスカフェラテ R",
+    "mesical": 74
+  },
+  {
+    "mesiname": "アイスカフェラテ L",
+    "mesical": 111
+  },
+  {
+    "mesiname": "ホットコーヒー R",
+    "mesical": 7
+  },
+  {
+    "mesiname": "ホットコーヒー L",
+    "mesical": 11
+  },
+  {
+    "mesiname": "アイスコーヒー R",
+    "mesical": 7
+  },
+  {
+    "mesiname": "高級キリマンジャロブレンド R",
+    "mesical": 7
+  },
+  {
+    "mesiname": "ホットカフェラテ R",
+    "mesical": 87
+  },
+  {
+    "mesiname": "ホットカフェラテ L",
+    "mesical": 130
+  }
 ]
