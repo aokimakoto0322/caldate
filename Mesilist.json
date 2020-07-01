@@ -38,5 +38,90 @@
     "mesiname": "ホットカフェラテ L",
     "mesiserch": "ほっとかふぇらてらーじ",
     "mesical": 130
+  },
+  {
+    "mesiname": "プロテインバー",
+    "mesiserch": "ぷろていんばー",
+    "mesical": 186
+  },
+  {
+    "mesiname": "プロテインチョコ",
+    "mesiserch": "ぷろていんちょこ",
+    "mesical": 183
+  },
+  {
+    "mesiname": "煎餅（小）",
+    "mesiserch": "せんべい（しょう）",
+    "mesical": 35
+  },
+  {
+    "mesiname": "サラダ煎餅（一枚）",
+    "mesiserch": "さらだせんべい（いちまい）",
+    "mesical": 35
+  },
+  {
+    "mesiname": "サラダ煎餅（二枚）",
+    "mesiserch": "さらだせんべい（にまい）",
+    "mesical": 70
+  },
+  {
+    "mesiname": "牛丼（ミニ）",
+    "mesiserch": "ぎゅうどん（みに）",
+    "mesical": 496
+  },
+  {
+    "mesiname": "牛丼（中盛）",
+    "mesiserch": "ぎゅうどん（ちゅうもり）",
+    "mesical": 798
+  },
+  {
+    "mesiname": "牛丼（特盛）",
+    "mesiserch": "ぎゅうどん（とくもり）",
+    "mesical": 1176
+  },
+  {
+    "mesiname": "牛丼（並盛）",
+    "mesiserch": "ぎゅうどん（なみもり）",
+    "mesical": 733
+  },
+  {
+    "mesiname": "牛丼（大盛）",
+    "mesiserch": "ぎゅうどん（おおもり）",
+    "mesical": 966
+  },
+  {
+    "mesiname": "牛丼（メガ盛り）",
+    "mesiserch": "ぎゅうどん（めがもり）",
+    "mesical": 1458
+  },
+  {
+    "mesiname": "キムチ牛丼（ミニ）",
+    "mesiserch": "きむちぎゅうどん（みに）",
+    "mesical": 524
+  },
+  {
+    "mesiname": "キムチ牛丼（並盛）",
+    "mesiserch": "きむちぎゅうどん（なみもり）",
+    "mesical": 761
+  },
+  {
+    "mesiname": "キムチ牛丼（中盛）",
+    "mesiserch": "きむちぎゅうどん（ちゅうもり）",
+    "mesical": 826
+  },
+  {
+    "mesiname": "キムチ牛丼（大盛）",
+    "mesiserch": "きむちぎゅうどん（おおもり）",
+    "mesical": 994
+  },
+  {
+    "mesiname": "キムチ牛丼（特盛）",
+    "mesiserch": "きむちぎゅうどん（とくもり）",
+    "mesical": 1204
+  },
+  {
+    "mesiname": "キムチ牛丼（メガ盛り）",
+    "mesiserch": "きむちぎゅうどん（めがもり）",
+    "mesical": 1486
   }
 ]
