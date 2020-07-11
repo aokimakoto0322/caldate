@@ -162,5 +162,193 @@
   {
     "mesiname": "ハッシュドポテト\n【はっしゅどぽてと】",
     "mesical": 145
+  },
+  {
+    "mesiname": "ごはん（一杯）\n 【ごはん（いっぱい）】",
+    "mesical": 269
+  },
+  {
+    "mesiname": "煎餅（中）\n 【せんべい（ちゅう）】",
+    "mesical": 61
+  },
+  {
+    "mesiname": "おにぎり（鮭）\n 【おにぎり（しゃけ）】",
+    "mesical": 188
+  },
+  {
+    "mesiname": "おにぎり（ツナマヨネーズ）\n 【おにぎり（つなまよねーず）】",
+    "mesical": 238
+  },
+  {
+    "mesiname": "おにぎり（辛子明太子）\n 【おにぎり（からしめんたいこ）】",
+    "mesical": 173
+  },
+  {
+    "mesiname": "おにぎり（昆布）\n 【おにぎり（こんぶ）】",
+    "mesical": 179
+  },
+  {
+    "mesiname": "ポテトサラダ（105g）\n 【ぽてとさらだ（105g）】",
+    "mesical": 179
+  },
+  {
+    "mesiname": "おにぎり（梅）\n 【おにぎり（うめ）】",
+    "mesical": 164
+  },
+  {
+    "mesiname": "ソーセージドッグ（大）\n 【そーせーじどっぐ（だい）】",
+    "mesical": 450
+  },
+  {
+    "mesiname": "お好み焼きパン\n 【おこのみやきぱん】",
+    "mesical": 252
+  },
+  {
+    "mesiname": "たまごサンド\n 【たまごさんど】",
+    "mesical": 363
+  },
+  {
+    "mesiname": "レタスサンド\n 【れたすさんど】",
+    "mesical": 214
+  },
+  {
+    "mesiname": "ハムサンド\n 【はむさんど】",
+    "mesical": 227
+  },
+  {
+    "mesiname": "ミックスサンド\n 【みっくすさんど】",
+    "mesical": 316
+  },
+  {
+    "mesiname": "ローストビーフサンド\n 【ろーすとびーふさんど】",
+    "mesical": 196
+  },
+  {
+    "mesiname": "ポークフランクフルト\n 【ぽーくふらんくふると】",
+    "mesical": 323
+  },
+  {
+    "mesiname": "粗びきフランク\n 【あらびきふらんく】",
+    "mesical": 190
+  },
+  {
+    "mesiname": "唐揚げ棒\n 【からあげぼう】",
+    "mesical": 205
+  },
+  {
+    "mesiname": "コンビニチキン\n 【こんびにちきん】",
+    "mesical": 201
+  },
+  {
+    "mesiname": "幕の内弁当\n 【まくのうちべんとう】",
+    "mesical": 668
+  },
+  {
+    "mesiname": "ネギ塩豚カルビ弁当\n 【ねぎしおぶたかるびべんとう】",
+    "mesical": 634
+  },
+  {
+    "mesiname": "醤油チャーハン\n 【しょうゆちゃーはん】",
+    "mesical": 601
+  },
+  {
+    "mesiname": "冷やし中華\n 【ひやしちゅうか】",
+    "mesical": 491
+  },
+  {
+    "mesiname": "たぬきうどん\n 【たぬきうどん】",
+    "mesical": 454
+  },
+  {
+    "mesiname": "五目あんかけ焼きそば\n 【ごもくあんかけやきそば】",
+    "mesical": 500
+  },
+  {
+    "mesiname": "豚玉やきそば\n 【ぶたたまやきそば】",
+    "mesical": 502
+  },
+  {
+    "mesiname": "おでん昆布\n 【おでんこんぶ】",
+    "mesical": 5
+  },
+  {
+    "mesiname": "おでん大根\n 【おでんだいこん】",
+    "mesical": 9
+  },
+  {
+    "mesiname": "おでんたまご\n 【おでんたまご】",
+    "mesical": 85
+  },
+  {
+    "mesiname": "おでん白滝\n 【おでんしらたき】",
+    "mesical": 7
+  },
+  {
+    "mesiname": "おでんこんにゃく\n 【おでんこんにゃく】",
+    "mesical": 9
+  },
+  {
+    "mesiname": "ざるそば（一人前）\n 【ざるそば（いちにんまえ）】",
+    "mesical": 296
+  },
+  {
+    "mesiname": "カレーライス\n 【かれーらいす】",
+    "mesical": 859
+  },
+  {
+    "mesiname": "力そば\n 【ちからそば】",
+    "mesical": 496
+  },
+  {
+    "mesiname": "カレーうどん\n 【かれーうどん】",
+    "mesical": 492
+  },
+  {
+    "mesiname": "山菜そば\n 【さんさいそば】",
+    "mesical": 391
+  },
+  {
+    "mesiname": "カツカレー\n 【かつかれー】",
+    "mesical": 1103
+  },
+  {
+    "mesiname": "オムライス\n 【おむらいす】",
+    "mesical": 850
+  },
+  {
+    "mesiname": "カルボナーラ\n 【かるぼなーら】",
+    "mesical": 779
+  },
+  {
+    "mesiname": "豚骨ラーメン\n 【とんこつらーめん】",
+    "mesical": 525
+  },
+  {
+    "mesiname": "替え玉\n 【かえだま】",
+    "mesical": 370
+  },
+  {
+    "mesiname": "半替え玉\n 【はんかえだま】",
+    "mesical": 188
+  },
+  {
+    "mesiname": "中華そば\n 【ちゅうかそば】",
+    "mesical": 669
+  },
+  {
+    "mesiname": "中華そば（大盛）\n 【ちゅうかそば（おおもり）】",
+    "mesical": 869
+  },
+  {
+    "mesiname": "肉そば\n 【にくそば】",
+    "mesical": 910
+  },
+  {
+    "mesiname": "汁なしラーメン\n 【しるなしらーめん】",
+    "mesical": 1136
+  },
+  {
+    "mesiname": "油そば\n 【あぶらそば】",
+    "mesical": 645
   }
 ]
